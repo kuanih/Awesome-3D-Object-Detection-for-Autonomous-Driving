@@ -1,5 +1,9 @@
 # Multi-Camera 3D Object Detection
 
+## 2023
+
+- StreamPETER: Exploring Object-Centric Temporal Modeling for Efficient Multi-View 3D Object Detection [(ICCV 23)](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Exploring_Object-Centric_Temporal_Modeling_for_Efficient_Multi-View_3D_Object_Detection_ICCV_2023_paper.pdf)
+
 ## 2022
 
 - ImVoxelNet: Image to Voxels Projection for Monocular and Multi-View General-Purpose 3D Object Detection [(WACV 22)](https://arxiv.org/pdf/2106.01178.pdf)
