@@ -1,5 +1,9 @@
 # LiDAR & Camera Fusion for 3D Object Detection
 
+## 2023
+
+- SupFusion: Supervised LiDAR-Camera Fusion for 3D Object Detection [(ICCV 23)](https://openaccess.thecvf.com/content/ICCV2023/papers/Qin_SupFusion_Supervised_LiDAR-Camera_Fusion_for_3D_Object_Detection_ICCV_2023_paper.pdf)
+
 ## 2022
 
 - AutoAlign: Pixel-Instance Feature Aggregation for Multi-Modal 3D Object Detection [(arXiv 22)](https://arxiv.org/pdf/2201.06493.pdf)
